@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "homelab-website",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9bbce27d-d532-44a3-9193-2690b78e6d65",
+			"database_name": "HLB-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
